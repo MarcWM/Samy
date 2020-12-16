@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452267672996",
+    "project_id": "samy-app-mw",
+    "storage_bucket": "samy-app-mw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452267672996:android:1fe8d0ba6afa28191ced31",
+        "android_client_info": {
+          "package_name": "com.android.samy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452267672996-83divtbt9psn4hjpjpl9hq4cp5vev6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_o85N0vNb479raTFt_A9PheyEJsuwEyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452267672996-83divtbt9psn4hjpjpl9hq4cp5vev6ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
